@@ -124,13 +124,6 @@ sm.remove_schedule(schedule_id=1)
 | `Makefile` | 자주 쓰는 명령을 단축시키는 설정 |
 | `schedule_manager.py` | 핵심 로직 (스케줄 CRUD 등) |
 
----
-
-## 6. 테스트
-
-```bash
-pytest
-```
 
 ---
 
