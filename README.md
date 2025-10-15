@@ -128,7 +128,7 @@ sm.remove_schedule(schedule_id=1)
 ---
 
 
-## 8. 기여 안내
+## 6. 기여 안내
 
 1. 저장소를 fork 합니다.  
 2. 브랜치를 만듭니다 (`feature/요청기능` 등)  
